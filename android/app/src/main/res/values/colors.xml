@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Premium Gaming Palette -->
+    <color name="hud_background_dark">#F00F172A</color>
+    <color name="hud_surface_dark">#E61E293B</color>
+    <color name="hud_card_dark">#D9334155</color>
+    <color name="hud_border_dark">#33FFFFFF</color>
+    
+    <color name="hud_text_primary">#F8FAFC</color>
+    <color name="hud_text_secondary">#94A3B8</color>
+    <color name="hud_text_muted">#64748B</color>
+
+    <color name="hud_accent_gold">#F59E0B</color>
+    <color name="hud_accent_gold_dark">#D97706</color>
+    <color name="hud_accent_cyan">#06B6D4</color>
+    <color name="hud_accent_green">#10B981</color>
+    <color name="hud_accent_red">#EF4444</color>
+    <color name="hud_accent_yellow">#FBBF24</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

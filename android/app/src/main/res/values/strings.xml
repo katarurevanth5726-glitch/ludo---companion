@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ludo Companion</string>
+    <string name="title_overlay_settings">Floating Companion HUD</string>
+    <string name="desc_overlay_purpose">Independent dice roll simulation and statistical analysis overlay that floats on top of your screen.</string>
+    <string name="btn_start_service">Launch Floating Overlay</string>
+    <string name="btn_stop_service">Stop Floating Overlay</string>
+    <string name="disclaimer_privacy">100% Offline &amp; Private. Operates completely locally without root access, credentials collection, or network interception. Independent simulation companion.</string>
+</resources>

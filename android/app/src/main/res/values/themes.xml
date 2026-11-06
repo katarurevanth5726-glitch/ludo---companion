@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.LudoCompanion" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/hud_accent_gold</item>
+        <item name="colorSecondary">@color/hud_accent_cyan</item>
+        <item name="android:statusBarColor">@color/hud_background_dark</item>
+        <item name="android:navigationBarColor">@color/hud_background_dark</item>
+        <item name="android:windowBackground">@color/hud_background_dark</item>
+    </style>
+</resources>

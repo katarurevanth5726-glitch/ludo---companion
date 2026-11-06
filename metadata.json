@@ -1,0 +1,8 @@
+{
+  "name": "Ludo Companion - Android Floating Overlay",
+  "description": "Native Android Kotlin floating companion overlay and interactive dice simulator for gaming sessions, with SYSTEM_ALERT_WINDOW foreground service, draggable HUD, dice stats, and complete Android Studio project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

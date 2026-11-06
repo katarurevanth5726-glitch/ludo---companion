@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dice Outer Rounded Body -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M32,24 h44 a8,8 0 0 1 8,8 v44 a8,8 0 0 1 -8,8 h-44 a8,8 0 0 1 -8,-8 v-44 a8,8 0 0 1 8,-8 z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M34,26 h40 a6,6 0 0 1 6,6 v40 a6,6 0 0 1 -6,6 h-40 a6,6 0 0 1 -6,-6 v-40 a6,6 0 0 1 6,-6 z" />
+    <!-- 6 Dice Dots in Gold -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M42,37 a4,4 0 1 1 0,-0.01 Z
+                          M42,54 a4,4 0 1 1 0,-0.01 Z
+                          M42,71 a4,4 0 1 1 0,-0.01 Z
+                          M66,37 a4,4 0 1 1 0,-0.01 Z
+                          M66,54 a4,4 0 1 1 0,-0.01 Z
+                          M66,71 a4,4 0 1 1 0,-0.01 Z" />
+</vector>
