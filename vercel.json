@@ -69,7 +69,7 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!assets/|pwa-|apple-touch-icon|favicon|icon|manifest|sw|workbox).*)/?",
+      "source": "/(.*)",
       "destination": "/index.html"
     }
   ]
